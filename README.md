@@ -74,6 +74,7 @@ I'm always excited to collaborate on new projects and exchange ideas. Feel free 
 </p>
 
 ### 🐍 My Contributions
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiranGadhavi/KiranGadhavi/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiranGadhavi/KiranGadhavi/output/github-contribution-grid-snake.svg">
