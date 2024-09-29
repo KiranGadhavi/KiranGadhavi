@@ -18,7 +18,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-<img align="right" height="150" width="150" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" height="150" width="150" alt="Woman Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 🔭 Currently working on [Dream Capture](https://final-project-the-mad-hackers.vercel.app/)
 
