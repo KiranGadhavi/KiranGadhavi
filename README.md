@@ -1,4 +1,4 @@
-- <h1 align="center">
+ <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Kiran+Gadhavi;Welcome+to+my+GitHub!&center=true&size=30">
   </h1>
   <h3 align="center">Full Stack Developer | United Kingdom</h3>
@@ -14,10 +14,6 @@
   <a href="mailto:kirangadhavi@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kirangadhavi&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
@@ -63,6 +59,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirangadhavi&theme=radical" alt="GitHub Streak" />
 </p>
 
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kirangadhavi&theme=darkhub&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
 ### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Let's Connect!
 
 I'm always excited to collaborate on new projects and exchange ideas. Feel free to reach out if you'd like to discuss anything related to web development, technology, or just want to say hello!
@@ -70,3 +72,7 @@ I'm always excited to collaborate on new projects and exchange ideas. Feel free 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </p>
+
+### 🐍 My Contributions
+
+![Snake animation](https://github.com/kirangadhavi/kirangadhavi/blob/output/github-contribution-grid-snake.svg)
