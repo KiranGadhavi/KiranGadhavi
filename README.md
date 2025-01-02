@@ -20,9 +20,9 @@
 
 <img align="right" height="150" width="150" alt="Woman Coding GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
-🔭 Currently working on [Dream Capture](https://final-project-the-mad-hackers.vercel.app/)
+🔭 Currently working as a Full Stack Developer Intern at Anima People, utilizing Next.js, React, Tailwind CSS, Node.js, Fastify, Prisma, and PostgreSQL.
 
-🌱 Learning and growing at School of Code Bootcamp 17
+🌱 Completed School of Code Bootcamp in November 2024 and continue learning and growing in the web development field.
 
 💡 Passionate about solving complex problems and creating innovative solutions
 
@@ -74,10 +74,5 @@ I'm always excited to collaborate on new projects and exchange ideas. Feel free 
 </p>
 
 ### 🐍 My Contributions
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiranGadhavi/KiranGadhavi/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiranGadhavi/KiranGadhavi/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KiranGadhavi/KiranGadhavi/output/github-contribution-grid-snake.svg">
-</picture>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KiranGadhavi/KiranGadhavi/output/github-contribution-grid-snake-dark.svg"> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KiranGadhavi/KiranGadhavi/output/github-contribution-grid-snake.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/KiranGadhavi/KiranGadhavi/output/github-contribution-grid-snake.svg"> </picture>
 
