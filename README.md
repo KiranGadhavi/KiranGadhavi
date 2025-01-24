@@ -13,8 +13,8 @@
   <a href="mailto:kirangadhavi@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
- <a href="https://yourportfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-242424?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
+  <a href="https://kiran-gadhavi.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐-Portfolio-242424?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
