@@ -2,7 +2,9 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Kiran+Gadhavi;Welcome+to+my+GitHub!&center=true&size=30">
   </h1>
   <h3 align="center">Full Stack Developer | United Kingdom</h3>
-
+<p align="center">
+  <a href="https://kiran-gadhavi.vercel.app/" target="_blank">🌐 My Portfolio</a>
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kirangadhavi&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
